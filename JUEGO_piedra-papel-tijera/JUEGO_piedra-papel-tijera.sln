@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JUEGO_piedra-papel-tijera", "JUEGO_piedra-papel-tijera\JUEGO_piedra-papel-tijera.csproj", "{B826B10D-09D4-4528-8306-8A74EDC1D34A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B826B10D-09D4-4528-8306-8A74EDC1D34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B826B10D-09D4-4528-8306-8A74EDC1D34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B826B10D-09D4-4528-8306-8A74EDC1D34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B826B10D-09D4-4528-8306-8A74EDC1D34A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CC08A36-3963-43A2-97E4-11EF98862A42}
+	EndGlobalSection
+EndGlobal
